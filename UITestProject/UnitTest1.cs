@@ -1,4 +1,8 @@
-namespace UITestProject
+using Xamarin.UITest;
+using Xamarin.UITest.Queries;
+
+
+namespace UITestProject7
 {
     public class Tests
     {
